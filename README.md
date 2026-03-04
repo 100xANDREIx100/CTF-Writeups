@@ -7,6 +7,7 @@ My goal is not just to capture the flags, but to deeply understand the methodolo
 **Current Focus:** 
 * 🐧 Linux Command Line Basics
 * 🛡️ OverTheWire: Bandit
+* 🎯 PicoCTF
 
 ## ⚠️ Educational Disclaimer
 
