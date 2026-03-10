@@ -1,4 +1,4 @@
-# OverTheWire - Bandit - Level 1 -> Level 2
+# OverTheWire - Bandit - Level 2 -> Level 3
 
 ## 🎯 Objective
 Find the password in the `--spaces in this filename--` file
