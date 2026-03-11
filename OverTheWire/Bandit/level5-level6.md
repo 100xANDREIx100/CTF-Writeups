@@ -1,20 +1,20 @@
 # OverTheWire - Bandit - Level 5 -> Level 6
 
 ## 🎯 Objective
-Find the file with given propeties in the given folder
+Find the file with given properties in the given folder
 
 ## 🛠️ Tools & Concepts Used
-* `find` - searches for a file. can be provided extra arguments in order to norrow down the search.
+* `find` - searches for a file. Can be provided extra arguments in order to narrow down the search.
 
 ## 📝 Step-by-Step Solution
 
-**1. Enter and list all files**
-Once logged in, I searched for the file using extra flags to find the specific one I need
+**1. Search for the specific file**
+Once logged in, I searched for the file using extra flags to find the specific one I needed
 
 ```bash
 find . -type f -size 1033c ! -executable
 ```
-There I just got one file which I readed.
+There, I just got one file which I read.
 
 ## 💡 Key Takeaway
 Refreshed basic commands.

@@ -17,12 +17,12 @@ ls
 There I saw the file `--spaces in this filename--`
 
 **2. Printing its content to terminal**
-Knowing that on such tricky files a simple cat will not work, I wrapped it in "" and used the path trick `./`
+Knowing that a simple `cat` will not work on such tricky files, I wrapped the filename in quotes "" and used the relative path trick `./.`
 
 ```bash
 cat "./--spaces in this filename--"
 ```
-There I saw the password
+There, I saw the password.
 
 ## 💡 Key Takeaway
 Refreshed basic commands.
