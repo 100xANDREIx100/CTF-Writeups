@@ -53,4 +53,4 @@ ssh -i sshkey.private -p 2220 bandit14@bandit.labs.overthewire.org
 There I found the flag in the specified directory
 
 ## 💡 Key Takeaway
-Learned 2 methods of compression (`gzip`, `bzip2`), one of bundeling multipe files into one (`tar`) and how to treat `hexdump` files (specifically how to go to and from `binary`)
+Learned how to use ssh with a private key
