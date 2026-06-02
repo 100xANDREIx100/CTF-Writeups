@@ -8,12 +8,6 @@ Use a private ssh key to log into the next level
 * `scp` - secure copy a file from a remote host
 * `realpath` - find the absolute path of a file
 
-* `cp` - copies data from a folder to another
-* `xxd -r` - with the specified flag, it retuns a hexdump file back into binary
-* `gzip -d` - decompresses a gzip compressed file
-* `bzip2 -d` - decompresses a bzip2 compressed file
-* `tar  -xf` - extracts the content from a file
-
 ## 🕳️ Rabbit Holes & Missteps
 * **Hypothesis:** Directly ssh-ing from the remote server would solve the challange
 * **Action:** I tried to run `ssh` from the server
