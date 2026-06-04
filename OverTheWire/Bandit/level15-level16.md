@@ -1,7 +1,7 @@
 # OverTheWire - Bandit - Level 15 -> Level 16
 
 ## 🎯 Objective
-Communicate sung SSL/TSL encryption
+Communicate using SSL/TSL encryption
 
 ## 🛠️ Tools & Concepts Used
 * `openssl` - use OpenSSL cryptography library
