@@ -8,7 +8,7 @@ Find the password bypassing the `.bashrc` file
 
 ## 📝 Step-by-Step Solution
 
-**1.    Log in bypassing the broken file**
+**1. Log in bypassing the broken file**
 To bypass the `.bashrc` ffile I had to provide the `cat reeadme` file as an argument of `ssh`, as it will be executed before the first load of `.bashrc`
 
 ```bash
