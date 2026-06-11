@@ -1,4 +1,4 @@
-# OverTheWire - Bandit - Level 23 -> Level 25
+# OverTheWire - Bandit - Level 23 -> Level 24
 
 ## 🎯 Objective
 Recreate the logic of a bash script
