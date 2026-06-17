@@ -1,4 +1,4 @@
-# OverTheWire - Bandit - Level 28 -> Level 29
+# OverTheWire - Bandit - Level 29 -> Level 30
 
 ## 🎯 Objective
 Retrive a file from a branch
@@ -16,7 +16,7 @@ For this level I had to first copy the repo
 ```bash
 git clone ssh://bandit29-git@bandit.labs.overthewire.org:2220/home/bandit29-git/repo
 ```
-**2. Check all branches*
+**2. Check all branches**
 Then I had to see all the branches
 
 ```bash
@@ -25,7 +25,7 @@ git branch -a
 This displayed a total of 3 branches which I had to check
 
 **3. Go to the first**
-Then I had to check each branche's `README.md` file
+Then I had to check each branch's `README.md` file
 
 ```bash
 git checkout dev
